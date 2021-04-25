@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=EyupErgin&show_icons=true">
 
 # Hi! My Name is, Bruh Bot
-Coffee :coffee: is how I keep up with `{code}` 
+buy me a coffe please ☕
 
 
 <a  href ="https://www.codewars.com/users/BruhBot2"> <img align="left" src="https://www.codewars.com/users/BruhBot2/badges/micro"><a/>
